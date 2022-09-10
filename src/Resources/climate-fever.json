@@ -1,0 +1,1163 @@
+{
+  "animal_claims": [
+    {
+      "claim_id": "0",
+      "claim": "Global warming is driving polar bears toward extinction",
+      "claim_label": "SUPPORTS",
+      "evidences": [
+        {
+          "evidence_id": "Extinction risk from global warming:170",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Extinction risk from global warming",
+          "evidence": "\"Recent Research Shows Human Activity Driving Earth Towards Global Extinction Event\".",
+          "entropy": 0.6931471805599453,
+          "votes": [
+            "SUPPORTS",
+            "NOT_ENOUGH_INFO",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Global warming:14",
+          "evidence_label": "SUPPORTS",
+          "article": "Global warming",
+          "evidence": "Environmental impacts include the extinction or relocation of many species as their ecosystems change, most immediately the environments of coral reefs, mountains, and the Arctic.",
+          "entropy": 0,
+          "votes": [
+            "SUPPORTS",
+            "SUPPORTS",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Global warming:178",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Global warming",
+          "evidence": "Rising temperatures push bees to their physiological limits, and could cause the extinction of bee populations.",
+          "entropy": 0.6931471805599453,
+          "votes": [
+            "SUPPORTS",
+            "NOT_ENOUGH_INFO",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Habitat destruction:61",
+          "evidence_label": "SUPPORTS",
+          "article": "Habitat destruction",
+          "evidence": "Rising global temperatures, caused by the greenhouse effect, contribute to habitat destruction, endangering various species, such as the polar bear.",
+          "entropy": 0,
+          "votes": [
+            "SUPPORTS",
+            "SUPPORTS",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Polar bear:1328",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Polar bear",
+          "evidence": "\"Bear hunting caught in global warming debate\".",
+          "entropy": 0.6931471805599453,
+          "votes": [
+            "SUPPORTS",
+            "NOT_ENOUGH_INFO",
+            "null",
+            "null",
+            "null"
+          ]
+        }
+      ]
+    },
+    {
+      "claim_id": "6",
+      "claim": "The polar bear population has been growing.",
+      "claim_label": "REFUTES",
+      "evidences": [
+        {
+          "evidence_id": "Polar bear:1332",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Polar bear",
+          "evidence": "\"Ask the experts: Are polar bear populations increasing?\".",
+          "entropy": 0.6931471805599453,
+          "votes": [
+            "NOT_ENOUGH_INFO",
+            "REFUTES",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Polar bear:272",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Polar bear",
+          "evidence": "The growth of the human population in the Eurasian Arctic in the 16th and 17th century, together with the advent of firearms and increasing trade, dramatically increased the harvest of polar bears.",
+          "entropy": 0.6931471805599453,
+          "votes": [
+            "NOT_ENOUGH_INFO",
+            "REFUTES",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Polar bear:280",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Polar bear",
+          "evidence": "The numbers taken grew rapidly in the 1960s, peaking around 1968 with a global total of 1,250 bears that year.",
+          "entropy": 0.6931471805599453,
+          "votes": [
+            "NOT_ENOUGH_INFO",
+            "SUPPORTS",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Polar bear:308",
+          "evidence_label": "REFUTES",
+          "article": "Polar bear",
+          "evidence": "In two areas where harvest levels have been increased based on increased sightings, science-based studies have indicated declining populations, and a third area is considered data-deficient.",
+          "entropy": 0,
+          "votes": [
+            "REFUTES",
+            "REFUTES",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Polar bear:61",
+          "evidence_label": "REFUTES",
+          "article": "Polar bear",
+          "evidence": "Of the 19 recognized polar bear subpopulations, one is in decline, two are increasing, seven are stable, and nine have insufficient data, as of 2017.",
+          "entropy": 0,
+          "votes": [
+            "REFUTES",
+            "REFUTES",
+            "null",
+            "null",
+            "null"
+          ]
+        }
+      ]
+    },
+    {
+      "claim_id": "76",
+      "claim": "Burping cows are more damaging to the climate than all the cars on this planet.",
+      "claim_label": "NOT_ENOUGH_INFO",
+      "evidences": [
+        {
+          "evidence_id": "Climate change mitigation:241",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Climate change mitigation",
+          "evidence": "Many citizens of countries like the United States and Canada who drive personal cars often, see well over half of their climate change impact stemming from the emissions produced from their cars.",
+          "entropy": 0,
+          "votes": [
+            "NOT_ENOUGH_INFO",
+            "NOT_ENOUGH_INFO",
+            "null",
+            "null",
+            "NOT_ENOUGH_INFO"
+          ]
+        },
+        {
+          "evidence_id": "Climate change mitigation:317",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Climate change mitigation",
+          "evidence": "For richer people, emissions tend to be associated with things such as eating beef, cars, frequent flying, and home heating.",
+          "entropy": 0,
+          "votes": [
+            "NOT_ENOUGH_INFO",
+            "NOT_ENOUGH_INFO",
+            "null",
+            "null",
+            "NOT_ENOUGH_INFO"
+          ]
+        },
+        {
+          "evidence_id": "Climate change mitigation:379",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Climate change mitigation",
+          "evidence": "Most environmentally related taxes with implications for greenhouse gas emissions in OECD countries are levied on energy products and motor vehicles, rather than on CO2 emissions directly.",
+          "entropy": 0,
+          "votes": [
+            "NOT_ENOUGH_INFO",
+            "NOT_ENOUGH_INFO",
+            "null",
+            "null",
+            "NOT_ENOUGH_INFO"
+          ]
+        },
+        {
+          "evidence_id": "Earth:351",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Earth",
+          "evidence": "The Moon may have dramatically affected the development of life by moderating the planet's climate.",
+          "entropy": 0,
+          "votes": [
+            "NOT_ENOUGH_INFO",
+            "NOT_ENOUGH_INFO",
+            "null",
+            "null",
+            "NOT_ENOUGH_INFO"
+          ]
+        },
+        {
+          "evidence_id": "Earth:668",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Earth",
+          "evidence": "Our Changing Sun: The Role of Solar Nuclear Evolution and Magnetic Activity on Earth's Atmosphere and Climate.",
+          "entropy": 0,
+          "votes": [
+            "NOT_ENOUGH_INFO",
+            "NOT_ENOUGH_INFO",
+            "null",
+            "null",
+            "NOT_ENOUGH_INFO"
+          ]
+        }
+      ]
+    },
+    {
+      "claim_id": "141",
+      "claim": "Greenpeace didn’t save the whales, switching from whale oil to petroleum and palm oil did",
+      "claim_label": "NOT_ENOUGH_INFO",
+      "evidences": [
+        {
+          "evidence_id": "Greenpeace:124",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Greenpeace",
+          "evidence": "Greenpeace is also critical of extracting petroleum from oil sands and has used direct action to block operations at the Athabasca oil sands in Canada.",
+          "entropy": 0.6931471805599453,
+          "votes": [
+            "REFUTES",
+            "NOT_ENOUGH_INFO",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Greenpeace:171",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Greenpeace",
+          "evidence": "Another Greenpeace movement concerning the rain forests is discouraging palm oil industries.",
+          "entropy": 0.6931471805599453,
+          "votes": [
+            "SUPPORTS",
+            "NOT_ENOUGH_INFO",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Greenpeace:189",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Greenpeace",
+          "evidence": "Greenpeace is also calling Wilmar out for breaking the commitment to end deforestation policy signed by Wilmar in December 2013 where they promise to incorporate organic and sustainable ways to collect palm oil.",
+          "entropy": 0.6931471805599453,
+          "votes": [
+            "REFUTES",
+            "NOT_ENOUGH_INFO",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Greenpeace:192",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Greenpeace",
+          "evidence": "Brands cannot let this deception pass unchallenged and have no choice but to suspend all business with Wilmar until it can prove it only trades clean palm oil from responsible producers.\"",
+          "entropy": 0.6931471805599453,
+          "votes": [
+            "REFUTES",
+            "NOT_ENOUGH_INFO",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Petroleum:296",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Petroleum",
+          "evidence": "James S. Robbins has argued that the advent of petroleum-refined kerosene saved some species of great whales from extinction by providing an inexpensive substitute for whale oil, thus eliminating the economic imperative for open-boat whaling.",
+          "entropy": 0.6931471805599453,
+          "votes": [
+            "SUPPORTS",
+            "REFUTES",
+            "null",
+            "null",
+            "null"
+          ]
+        }
+      ]
+    },
+    {
+      "claim_id": "307",
+      "claim": "For instance, wind turbines kill birds and insects, and palm-oil plantations destroy the biodiversity of the rainforests",
+      "claim_label": "SUPPORTS",
+      "evidences": [
+        {
+          "evidence_id": "Deforestation:103",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Deforestation",
+          "evidence": "Forests support biodiversity, providing habitat for wildlife; moreover, forests foster medicinal conservation.",
+          "entropy": 0.6931471805599453,
+          "votes": [
+            "SUPPORTS",
+            "REFUTES",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Palm oil:131",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Palm oil",
+          "evidence": "However palm oil cultivation has been criticized for its impact on the natural environment, including deforestation, loss of natural habitats, and greenhouse gas emissions which have threatened critically endangered species, such as the orangutan and Sumatran tiger.",
+          "entropy": 0.6931471805599453,
+          "votes": [
+            "SUPPORTS",
+            "REFUTES",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Palm oil:134",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Palm oil",
+          "evidence": "The IUCN maintains that replacing palm oil with other vegetable oils would necessitate greater amounts of agricultural land, negatively affecting biodiversity.",
+          "entropy": 0.6931471805599453,
+          "votes": [
+            "REFUTES",
+            "SUPPORTS",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Wind turbine:233",
+          "evidence_label": "SUPPORTS",
+          "article": "Wind turbine",
+          "evidence": "Thousands of birds, including rare species, have been killed by the blades of wind turbines, though wind turbines contribute relatively insignificantly to anthropogenic avian mortality.",
+          "entropy": 0,
+          "votes": [
+            "SUPPORTS",
+            "SUPPORTS",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Wind turbine:235",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Wind turbine",
+          "evidence": "In 2009, for every bird killed by a wind turbine in the US, nearly 500,000 were killed by cats and another 500,000 by buildings.",
+          "entropy": 0.6931471805599453,
+          "votes": [
+            "REFUTES",
+            "SUPPORTS",
+            "null",
+            "null",
+            "null"
+          ]
+        }
+      ]
+    }
+  ],
+  "nature_claims": [
+    {
+      "claim_id": "5",
+      "claim": "The sun has gone into ‘lockdown’ which could cause freezing weather, earthquakes and famine, say scientists",
+      "claim_label": "SUPPORTS",
+      "evidences": [
+        {
+          "evidence_id": "Famine:386",
+          "evidence_label": "SUPPORTS",
+          "article": "Famine",
+          "evidence": "The current consensus of the scientific community is that the aerosols and dust released into the upper atmosphere causes cooler temperatures by preventing the sun's energy from reaching the ground.",
+          "entropy": 0,
+          "votes": [
+            "SUPPORTS",
+            "SUPPORTS",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Weather:67",
+          "evidence_label": "SUPPORTS",
+          "article": "Weather",
+          "evidence": "The Little Ice Age caused crop failures and famines in Europe.",
+          "entropy": 0,
+          "votes": [
+            "SUPPORTS",
+            "SUPPORTS",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Winter:114",
+          "evidence_label": "SUPPORTS",
+          "article": "Winter",
+          "evidence": "The persistently cold, wet weather caused great hardship, was primarily responsible for the Great Famine of 1315–1317, and strongly contributed to the weakened immunity and malnutrition leading up to the Black Death (1348–1350).",
+          "entropy": 0,
+          "votes": [
+            "SUPPORTS",
+            "SUPPORTS",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Winter:20",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Winter",
+          "evidence": "The manifestation of the meteorological winter (freezing temperatures) in the northerly snow–prone latitudes is highly variable depending on elevation, position versus marine winds and the amount of precipitation.",
+          "entropy": 0.6931471805599453,
+          "votes": [
+            "REFUTES",
+            "NOT_ENOUGH_INFO",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Winter:5",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Winter",
+          "evidence": "In many regions, winter is associated with snow and freezing temperatures.",
+          "entropy": 0.6931471805599453,
+          "votes": [
+            "REFUTES",
+            "NOT_ENOUGH_INFO",
+            "null",
+            "null",
+            "null"
+          ]
+        }
+      ]
+    },
+    {
+      "claim_id": "9",
+      "claim": "Ironic' study finds more CO2 has slightly cooled the planet",
+      "claim_label": "REFUTES",
+      "evidences": [
+        {
+          "evidence_id": "Atmosphere of Mars:131",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Atmosphere of Mars",
+          "evidence": "CO2 in the mesosphere acts as a cooling agent by efficiently radiating heat into space.",
+          "entropy": 0.6931471805599453,
+          "votes": [
+            "NOT_ENOUGH_INFO",
+            "SUPPORTS",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Atmosphere of Mars:136",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Atmosphere of Mars",
+          "evidence": "The higher concentration of CO2 in the Martian thermosphere may explain part of the discrepancy because of the cooling effects of CO2 in high altitude.",
+          "entropy": 0.6931471805599453,
+          "votes": [
+            "NOT_ENOUGH_INFO",
+            "SUPPORTS",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Carbon dioxide in Earth's atmosphere:10",
+          "evidence_label": "REFUTES",
+          "article": "Carbon dioxide in Earth's atmosphere",
+          "evidence": "This increase of CO 2 and other long-lived greenhouse gases in Earth's atmosphere has produced the current episode of global warming.",
+          "entropy": 0,
+          "votes": [
+            "REFUTES",
+            "REFUTES",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Carbon dioxide in Earth's atmosphere:63",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Carbon dioxide in Earth's atmosphere",
+          "evidence": "The greenhouse effect is a process by which thermal radiation from a planetary atmosphere warms the planet's surface beyond the temperature it would have in the absence of its atmosphere.",
+          "entropy": 0,
+          "votes": [
+            "NOT_ENOUGH_INFO",
+            "NOT_ENOUGH_INFO",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Carbon dioxide:191",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Carbon dioxide",
+          "evidence": "Less energy reaches the upper atmosphere, which is therefore cooler because of this absorption.",
+          "entropy": 0,
+          "votes": [
+            "NOT_ENOUGH_INFO",
+            "NOT_ENOUGH_INFO",
+            "null",
+            "null",
+            "null"
+          ]
+        }
+      ]
+    },
+    {
+      "claim_id": "14",
+      "claim": "The Great Barrier Reef is experiencing the most widespread bleaching ever recorded",
+      "claim_label": "SUPPORTS",
+      "evidences": [
+        {
+          "evidence_id": "Coral bleaching:52",
+          "evidence_label": "SUPPORTS",
+          "article": "Coral bleaching",
+          "evidence": "These temperatures have caused the most severe and widespread coral bleaching ever recorded in the Great Barrier reef.",
+          "entropy": 0,
+          "votes": [
+            "SUPPORTS",
+            "SUPPORTS",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Great Barrier Reef:14",
+          "evidence_label": "SUPPORTS",
+          "article": "Great Barrier Reef",
+          "evidence": "A March 2016 report stated that coral bleaching was more widespread than previously thought, seriously affecting the northern parts of the reef as a result of warming ocean temperatures.",
+          "entropy": 0,
+          "votes": [
+            "SUPPORTS",
+            "SUPPORTS",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Great Barrier Reef:179",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Great Barrier Reef",
+          "evidence": "The decline in the quality of water over the past 150 years (due to development) has contributed to coral bleaching, algal blooms, and pesticide pollution.",
+          "entropy": 0.6931471805599453,
+          "votes": [
+            "REFUTES",
+            "SUPPORTS",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Great Barrier Reef:8",
+          "evidence_label": "SUPPORTS",
+          "article": "Great Barrier Reef",
+          "evidence": "Other environmental pressures on the reef and its ecosystem include runoff, climate change accompanied by mass coral bleaching, dumping of dredging sludge and cyclic population outbreaks of the crown-of-thorns starfish.",
+          "entropy": 0,
+          "votes": [
+            "SUPPORTS",
+            "SUPPORTS",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Great Barrier Reef:96",
+          "evidence_label": "SUPPORTS",
+          "article": "Great Barrier Reef",
+          "evidence": "Mass coral bleaching events due to elevated ocean temperatures occurred in the summers of 1998, 2002 and 2006, and coral bleaching is expected to become an annual occurrence.",
+          "entropy": 0,
+          "votes": [
+            "SUPPORTS",
+            "SUPPORTS",
+            "null",
+            "null",
+            "null"
+          ]
+        }
+      ]
+    },
+    {
+      "claim_id": "19",
+      "claim": "If CO2 was so terrible for the planet, then installing a CO2 generator in a greenhouse would kill the plants.",
+      "claim_label": "REFUTES",
+      "evidences": [
+        {
+          "evidence_id": "Carbon dioxide in Earth's atmosphere:63",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Carbon dioxide in Earth's atmosphere",
+          "evidence": "The greenhouse effect is a process by which thermal radiation from a planetary atmosphere warms the planet's surface beyond the temperature it would have in the absence of its atmosphere.",
+          "entropy": 0,
+          "votes": [
+            "null",
+            "NOT_ENOUGH_INFO",
+            "NOT_ENOUGH_INFO",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Carbon dioxide:146",
+          "evidence_label": "REFUTES",
+          "article": "Carbon dioxide",
+          "evidence": "At very high concentrations (100 times atmospheric concentration, or greater), carbon dioxide can be toxic to animal life, so raising the concentration to 10,000 ppm (1%) or higher for several hours will eliminate pests such as whiteflies and spider mites in a greenhouse.",
+          "entropy": 0,
+          "votes": [
+            "null",
+            "REFUTES",
+            "REFUTES",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Carbon dioxide:21",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Carbon dioxide",
+          "evidence": "Since the Industrial Revolution anthropogenic emissions – primarily from use of fossil fuels and deforestation – have rapidly increased its concentration in the atmosphere, leading to global warming.",
+          "entropy": 0.6931471805599453,
+          "votes": [
+            "null",
+            "NOT_ENOUGH_INFO",
+            "REFUTES",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Terraforming of Mars:59",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Terraforming of Mars",
+          "evidence": "Because its atmosphere consists mainly of CO 2, a known greenhouse gas, once Mars begins to heat, the CO 2 may help to keep thermal energy near the surface.",
+          "entropy": 0,
+          "votes": [
+            "null",
+            "NOT_ENOUGH_INFO",
+            "NOT_ENOUGH_INFO",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Terraforming of Mars:78",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Terraforming of Mars",
+          "evidence": "These gases are proposed for introduction because they generate a greenhouse effect thousands of times stronger than that of CO 2.",
+          "entropy": 0,
+          "votes": [
+            "null",
+            "NOT_ENOUGH_INFO",
+            "NOT_ENOUGH_INFO",
+            "null",
+            "null"
+          ]
+        }
+      ]
+    },
+    {
+      "claim_id": "21",
+      "claim": "Sea level rise has been slow and a constant, pre-dating industrialization",
+      "claim_label": "REFUTES",
+      "evidences": [
+        {
+          "evidence_id": "Russia:153",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Russia",
+          "evidence": "Under Stalin's leadership, the government launched a command economy, industrialization of the largely rural country, and collectivization of its agriculture.",
+          "entropy": 0.6365141682948128,
+          "votes": [
+            "NOT_ENOUGH_INFO",
+            "REFUTES",
+            "NOT_ENOUGH_INFO",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Sea level rise:26",
+          "evidence_label": "REFUTES",
+          "article": "Sea level rise",
+          "evidence": "Since the last glacial maximum about 20,000 years ago, the sea level has risen by more than 125 metres (410 ft), with rates varying from less than a mm/year to 40+ mm/year, as a result of melting ice sheets over Canada and Eurasia.",
+          "entropy": 0,
+          "votes": [
+            "REFUTES",
+            "REFUTES",
+            "REFUTES",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Sea level rise:405",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Sea level rise",
+          "evidence": "\"Climate-change–driven accelerated sea-level rise detected in the altimeter era\".",
+          "entropy": 0.6365141682948128,
+          "votes": [
+            "REFUTES",
+            "NOT_ENOUGH_INFO",
+            "NOT_ENOUGH_INFO",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Sea level rise:50",
+          "evidence_label": "REFUTES",
+          "article": "Sea level rise",
+          "evidence": "Data collected by the Commonwealth Scientific and Industrial Research Organisation (CSIRO) in Australia show the current global mean sea level trend to be 3.2 mm (0.13 in) per year, a doubling of the rate during the 20th century.",
+          "entropy": 0.6365141682948128,
+          "votes": [
+            "REFUTES",
+            "REFUTES",
+            "NOT_ENOUGH_INFO",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Sweden:173",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Sweden",
+          "evidence": "Between 1870 and 1914, Sweden began developing the industrialised economy that exists today.",
+          "entropy": 0.6365141682948128,
+          "votes": [
+            "NOT_ENOUGH_INFO",
+            "REFUTES",
+            "NOT_ENOUGH_INFO",
+            "null",
+            "null"
+          ]
+        }
+      ]
+    }
+  ],
+  "human_claims": [
+    {
+      "claim_id": "10",
+      "claim": "Human additions of CO2 are in the margin of error of current measurements and the gradual increase in CO2 is mainly from oceans degassing as the planet slowly emerges from the last ice age.",
+      "claim_label": "REFUTES",
+      "evidences": [
+        {
+          "evidence_id": "Carbon dioxide in Earth's atmosphere:140",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Carbon dioxide in Earth's atmosphere",
+          "evidence": "While CO 2 absorption and release is always happening as a result of natural processes, the recent rise in CO 2 levels in the atmosphere is known to be mainly due to human (anthropogenic) activity.",
+          "entropy": 0.6931471805599453,
+          "votes": [
+            "NOT_ENOUGH_INFO",
+            "REFUTES",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Carbon dioxide in Earth's atmosphere:144",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Carbon dioxide in Earth's atmosphere",
+          "evidence": "The burning of long-buried fossil fuels releases CO 2 containing carbon of different isotopic ratios to those of living plants, enabling distinction between natural and human-caused contributions to CO 2 concentration.",
+          "entropy": 0.6931471805599453,
+          "votes": [
+            "SUPPORTS",
+            "REFUTES",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Carbon dioxide in Earth's atmosphere:42",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Carbon dioxide in Earth's atmosphere",
+          "evidence": "The beginning of human agriculture during the current Holocene epoch may have been strongly connected to the atmospheric CO 2 increase after the last ice age ended, a fertilization effect raising plant biomass growth and reducing stomatal conductance requirements for CO 2 intake, consequently reducing transpiration water losses and increasing water usage efficiency.",
+          "entropy": 0.6931471805599453,
+          "votes": [
+            "SUPPORTS",
+            "REFUTES",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Ocean acidification:0",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Ocean acidification",
+          "evidence": "Ocean acidification is the ongoing decrease in the pH of the Earth's oceans, caused by the uptake of carbon dioxide (CO 2) from the atmosphere.",
+          "entropy": 0.6931471805599453,
+          "votes": [
+            "NOT_ENOUGH_INFO",
+            "REFUTES",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Sea:226",
+          "evidence_label": "REFUTES",
+          "article": "Sea",
+          "evidence": "More recently, anthropogenic activities have steadily increased the carbon dioxide content of the atmosphere; about 30–40% of the added CO2 is absorbed by the oceans, forming carbonic acid and lowering the pH (now below 8.1) through a process called ocean acidification.",
+          "entropy": 0,
+          "votes": [
+            "REFUTES",
+            "REFUTES",
+            "null",
+            "null",
+            "null"
+          ]
+        }
+      ]
+    },
+    {
+      "claim_id": "11",
+      "claim": "They tell us that we are the primary forces controlling earth temperatures by the burning of fossil fuels and releasing their carbon dioxide.",
+      "claim_label": "SUPPORTS",
+      "evidences": [
+        {
+          "evidence_id": "Carbon dioxide:183",
+          "evidence_label": "SUPPORTS",
+          "article": "Carbon dioxide",
+          "evidence": "Most carbon dioxide from human activities is released from burning coal and other fossil fuels.",
+          "entropy": 0,
+          "votes": [
+            "SUPPORTS",
+            "SUPPORTS",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Carbon dioxide:21",
+          "evidence_label": "SUPPORTS",
+          "article": "Carbon dioxide",
+          "evidence": "Since the Industrial Revolution anthropogenic emissions – primarily from use of fossil fuels and deforestation – have rapidly increased its concentration in the atmosphere, leading to global warming.",
+          "entropy": 0,
+          "votes": [
+            "SUPPORTS",
+            "SUPPORTS",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Greenhouse gas:132",
+          "evidence_label": "SUPPORTS",
+          "article": "Greenhouse gas",
+          "evidence": "The main sources of greenhouse gases due to human activity are: burning of fossil fuels and deforestation leading to higher carbon dioxide concentrations in the air.",
+          "entropy": 0,
+          "votes": [
+            "SUPPORTS",
+            "SUPPORTS",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Greenhouse gas:186",
+          "evidence_label": "SUPPORTS",
+          "article": "Greenhouse gas",
+          "evidence": "At present, the primary source of CO 2 emissions is the burning of coal, natural gas, and petroleum for electricity and heat.",
+          "entropy": 0,
+          "votes": [
+            "SUPPORTS",
+            "SUPPORTS",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Petroleum:271",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Petroleum",
+          "evidence": "When burned, petroleum releases carbon dioxide, a greenhouse gas.",
+          "entropy": 0.6931471805599453,
+          "votes": [
+            "NOT_ENOUGH_INFO",
+            "SUPPORTS",
+            "null",
+            "null",
+            "null"
+          ]
+        }
+      ]
+    },
+    {
+      "claim_id": "18",
+      "claim": "it’s not a pollutant that threatens human civilization.",
+      "claim_label": "REFUTES",
+      "evidences": [
+        {
+          "evidence_id": "Air pollution:12",
+          "evidence_label": "REFUTES",
+          "article": "Air pollution",
+          "evidence": "An air pollutant is a material in the air that can have adverse effects on humans and the ecosystem.",
+          "entropy": 0,
+          "votes": [
+            "null",
+            "REFUTES",
+            "REFUTES",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Global catastrophic risk:0",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Global catastrophic risk",
+          "evidence": "A global catastrophic risk is a hypothetical future event which could damage human well-being on a global scale, even endangering or destroying modern civilization.",
+          "entropy": 0,
+          "votes": [
+            "null",
+            "NOT_ENOUGH_INFO",
+            "NOT_ENOUGH_INFO",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Global catastrophic risk:104",
+          "evidence_label": "REFUTES",
+          "article": "Global catastrophic risk",
+          "evidence": "The report warned that the pollution crisis was exceeding \"the envelope on the amount of pollution the Earth can carry\" and “threatens the continuing survival of human societies”.",
+          "entropy": 0,
+          "votes": [
+            "null",
+            "REFUTES",
+            "REFUTES",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Global catastrophic risk:207",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Global catastrophic risk",
+          "evidence": "The present, unprecedented scale and speed of human movement make it more difficult than ever to contain an epidemic through local quarantines, and other sources of uncertainty and the evolving nature of the risk means natural pandemics may pose a realistic threat to human civilization.",
+          "entropy": 0,
+          "votes": [
+            "null",
+            "NOT_ENOUGH_INFO",
+            "NOT_ENOUGH_INFO",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Global catastrophic risk:487",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Global catastrophic risk",
+          "evidence": "\"Global pollution kills 9m a year and threatens 'survival of human societies'\".",
+          "entropy": 0.6931471805599453,
+          "votes": [
+            "null",
+            "SUPPORTS",
+            "REFUTES",
+            "null",
+            "null"
+          ]
+        }
+      ]
+    },
+    {
+      "claim_id": "33",
+      "claim": "Harvard study finds that wind turbines create MORE global warming than the fossil fuels they eliminate",
+      "claim_label": "REFUTES",
+      "evidences": [
+        {
+          "evidence_id": "Fossil fuel:15",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Fossil fuel",
+          "evidence": "Carbon dioxide is a greenhouse gas that increases radiative forcing and contributes to global warming along with ocean acidification.",
+          "entropy": 0.6931471805599453,
+          "votes": [
+            "SUPPORTS",
+            "NOT_ENOUGH_INFO",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Petroleum:11",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Petroleum",
+          "evidence": "The use of petroleum as fuel causes global warming and ocean acidification.",
+          "entropy": 0,
+          "votes": [
+            "NOT_ENOUGH_INFO",
+            "NOT_ENOUGH_INFO",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Wind power:295",
+          "evidence_label": "REFUTES",
+          "article": "Wind power",
+          "evidence": "Compared with other low carbon power sources, wind turbines have some of the lowest global warming potential per unit of electrical energy generated.",
+          "entropy": 0,
+          "votes": [
+            "REFUTES",
+            "REFUTES",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Wind power:392",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Wind power",
+          "evidence": "Arrays of large turbines, known as wind farms, have become an increasingly important source of renewable energy and are used in many countries as part of a strategy to reduce their reliance on fossil fuels.",
+          "entropy": 0.6931471805599453,
+          "votes": [
+            "REFUTES",
+            "SUPPORTS",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Wind turbine:230",
+          "evidence_label": "REFUTES",
+          "article": "Wind turbine",
+          "evidence": "Over 1,500 tons of carbon dioxide per year can be eliminated by using a one-megawatt turbine instead of one megawatt of energy from a fossil fuel.",
+          "entropy": 0,
+          "votes": [
+            "REFUTES",
+            "REFUTES",
+            "null",
+            "null",
+            "null"
+          ]
+        }
+      ]
+    },
+    {
+      "claim_id": "38",
+      "claim": "Scientists studying Antarctica sea ice warn a rise in accumulation could spark the next ice age.",
+      "claim_label": "REFUTES",
+      "evidences": [
+        {
+          "evidence_id": "Antarctica:1046",
+          "evidence_label": "REFUTES",
+          "article": "Antarctica",
+          "evidence": "\"A 40-y record reveals gradual Antarctic sea ice increases followed by decreases at rates far exceeding the rates seen in the Arctic\".",
+          "entropy": 0,
+          "votes": [
+            "REFUTES",
+            "REFUTES",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Ice age:0",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Ice age",
+          "evidence": "An ice age is a long period of reduction in the temperature of the Earth's surface and atmosphere, resulting in the presence or expansion of continental and polar ice sheets and alpine glaciers.",
+          "entropy": 0.6931471805599453,
+          "votes": [
+            "REFUTES",
+            "SUPPORTS",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Ice age:133",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Ice age",
+          "evidence": "According to research published in Nature Geoscience, human emissions of carbon dioxide (CO2) will defer the next ice age.",
+          "entropy": 0.6931471805599453,
+          "votes": [
+            "REFUTES",
+            "NOT_ENOUGH_INFO",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Ice age:175",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Ice age",
+          "evidence": "The release of water raised sea levels again, restoring the ingress of colder water from the Pacific with an accompanying shift to northern hemisphere ice accumulation.",
+          "entropy": 0.6931471805599453,
+          "votes": [
+            "REFUTES",
+            "SUPPORTS",
+            "null",
+            "null",
+            "null"
+          ]
+        },
+        {
+          "evidence_id": "Sea level rise:82",
+          "evidence_label": "NOT_ENOUGH_INFO",
+          "article": "Sea level rise",
+          "evidence": "Based on changes of Antarctica's ice mass balance over millions of years, due to natural climate fluctuations, researchers concluded that the sea-ice acts as a barrier for warmer waters surrounding the continent.",
+          "entropy": 0.6931471805599453,
+          "votes": [
+            "REFUTES",
+            "NOT_ENOUGH_INFO",
+            "null",
+            "null",
+            "null"
+          ]
+        }
+      ]
+    }
+  ]
+}
